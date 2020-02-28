@@ -201,8 +201,10 @@ def checklinks(site, boardID, k, t):
 
 siteName = "" # https://www.uccs.edu/sitename -> siteName = "sitename"
 boardID = "" # https://trello.com/b/JergcfMf/test -> boardID = "JergcfMf"
-KEY = "89ef7014af1d0b50519e67cbb1dbb832" #
-Token = "45c874ca75300b2bb4330be5a330dfa336675c68b73089d486a0297f9c756313" #
+
+# add your trello api key and token
+KEY = "" #
+Token = "" #
 
 initializeChecking(siteName, boardID, KEY, Token)
 
