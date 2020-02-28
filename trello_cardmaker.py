@@ -191,14 +191,6 @@ def checklinks(site, boardID, k, t):
 
 
 
-
-
-
-
-#desc('JergcfMf', KEY, Token)
-
-#exists('JergcfMf', KEY, Token)
-
 siteName = "" # https://www.uccs.edu/sitename -> siteName = "sitename"
 boardID = "" # https://trello.com/b/JergcfMf/test -> boardID = "JergcfMf"
 
